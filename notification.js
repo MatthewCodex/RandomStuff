@@ -2,7 +2,7 @@
 // <script src="script1.js"></script>
 var q = document.createElement('link')
 q.rel = "stylesheet"
-q.href = "https://cdn.jsdelivr.net/gh/MatthewCodex/RandomStuff@4bfb447b3a8272b68a31f6cec28b028eca55b26b/Provider.css"
+q.href = "Provider.css"
 
 var w = document.createElement('div')
 w.classList.add("popup")
